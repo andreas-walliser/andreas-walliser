@@ -57,4 +57,4 @@ This GitHub profile is a work in progress. I am using it to document my learning
 
 ## Contact
 
-GitHub: [github.com/walliseraachen-svg](https://github.com/walliseraachen-svg)
+GitHub: [github.com/walliseraachen-svg](https://github.com/andreas-walliser)
