@@ -14,8 +14,6 @@ My main areas of interest are:
 * Portfolio optimization
 * Energy trading support
 * Power price analysis
-* Data-driven decision making
-* Automation of reporting and analysis tasks
 
 ## What I'm Learning
 
